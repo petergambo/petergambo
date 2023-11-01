@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- - 👀 I’m interested in software development, automation and embedded systems
+- 👀 I’m interested in software development, automation and embedded systems
 
 - 👨‍💻 All of my projects are available at [https://petergambo.com.ng](https://petergambo.com.ng)
 
