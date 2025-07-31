@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 👀 I’m interested in software development, automation and embedded systems
+- 👀 I’m interested in efficient enterprise software development, automation and embedded systems
 
 - 👨‍💻 All of my projects are available at [https://petergambo.com.ng](https://petergambo.com.ng)
 
 - 📝 I regularly write articles on [https://medium.com/@petergambo](https://medium.com/@petergambo)
 
-- 💬 Ask me about **react, gsap, threejs, bootstrap, tailwind, javascript, mysql, python**
+- 💬 Ask me about **react, laravel, gsap, threejs, bootstrap, tailwind, javascript, mysql, python, system architecture**
 
 - 📫 How to reach me **peterg0019@hotmail.com**
 
@@ -32,10 +32,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/petergambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="petergambo" height="30" width="40" /></a>
-<a href="https://twitter.com/lucre8tiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucre8tiv" height="30" width="40" /></a>
+<a href="https://twitter.com/kingpetarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucre8tiv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peter-gambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-gambo" height="30" width="40" /></a>
 <a href="https://fb.com/peter.gambo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter.gambo1" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/lucre8tiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lucre8tiv" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/kingpetarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lucre8tiv" height="30" width="40" /></a>
 <a href="https://medium.com/@petergambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@petergambo" height="30" width="40" /></a>
 </p>
 
